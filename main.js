@@ -97,7 +97,7 @@ function App() {
         {/* แสดงชื่อและปุ่ม "Add Counter" ที่เรียกใช้ hdlAddCounter เมื่อคลิก */}
         <h1 className="text-center">Codecamp Academy 1</h1> <br />
         <br />
-        <button className="button-center" onClick={hdlAddCounter}>
+        <button className="button-center button-23" onClick={hdlAddCounter}>
           Add Counter
         </button>
       </div>
